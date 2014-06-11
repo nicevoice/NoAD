@@ -1,0 +1,7 @@
+body {
+  padding: 30px;
+  text-align:center;
+}
+#mediaplayer,#mediaplayer_wrapper{
+  margin:0 auto;
+}
